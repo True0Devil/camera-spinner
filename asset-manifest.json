@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/camera-spinner/static/css/main.fe8623cf.css",
+    "main.js": "/camera-spinner/static/js/main.55e350d2.js",
+    "index.html": "/camera-spinner/index.html",
+    "main.fe8623cf.css.map": "/camera-spinner/static/css/main.fe8623cf.css.map",
+    "main.55e350d2.js.map": "/camera-spinner/static/js/main.55e350d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8623cf.css",
+    "static/js/main.55e350d2.js"
+  ]
+}
